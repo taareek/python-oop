@@ -1,0 +1,1 @@
+print("Hey Allah, make my wish fulfill")
